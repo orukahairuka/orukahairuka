@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orukahairuka&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orukahairuka&layout=compact)
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orukahairuka&count_private=true)
