@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Flutter, Figma!
+- 📫 How to reach me: https://twitter.com/Q64570316
+- ⚡ Fun fact: I'm left-handed.
 
 <!--
 **orukahairuka/orukahairuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
