@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </p>
 # Tools
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase,github,vscode" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=flutter,firebase,github,vscode,figma,swift" /> <br /><br />
 
