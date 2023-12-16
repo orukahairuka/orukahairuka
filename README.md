@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-- 🌱 I’m currently learning Flutter, Figma!
+- 🌱 I’m currently learning Flutter, Figma!!
 - 📫 How to reach me: https://twitter.com/Q64570316
 - ⚡ Fun fact: I'm left-handed.
 
