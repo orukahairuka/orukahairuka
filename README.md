@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-- 🌱 I’m currently learning Flutter, Swift!!
+- My portfolio：https://my-portfolio-kh49.vercel.app/ 
 - ⚡ Fun fact: I'm left-handed.
 
 <!--
