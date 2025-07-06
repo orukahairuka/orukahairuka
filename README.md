@@ -1,29 +1,25 @@
+## About Me
 
-### Hi there 👋
-- My portfolio：https://my-portfolio-kh49.vercel.app/ 
-- ⚡ Fun fact: I'm left-handed.
+- 📝 **My Portfolio:** [https://my-portfolio-kh49.vercel.app/](https://my-portfolio-kh49.vercel.app/)
+- 📚 **Contributed to:** [The Swift Programming Language Japanese Translation](https://github.com/stzn/the-swift-programming-language-jp)
 
-<!--
-**orukahairuka/orukahairuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...irukakamokamokamo111.vercel.app
-- ⚡ Fun fact: ...![github-readme-stats](https://github-readme-stats-clone-snq2001.vercel.app/api/top-langs/?username=SNQ-2001)
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://irukakamokamokamo111.vercel.app/api/top-langs/?username=orukahairuka&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://irukakamokamokamo111.vercel.app/api?username=orukahairuka&theme=onedark&show_icons=ture" />
+<img src="https://skillicons.dev/icons?i=swift,flutter,firebase,github,vscode,figma" /> <br /><br />
+
+
+## 🏆GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=orukahairuka&theme=onedark&margin-w=15&margin-h=15" />
 </p>
 
--->
 
-# Tools
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase,github,vscode,figma,swift" /> <br /><br />
+## 📊 GitHub Stats
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orukahairuka&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=orukahairuka&theme=onedark&show_icons=true" />
+</p>
