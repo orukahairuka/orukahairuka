@@ -9,13 +9,6 @@
 <img src="https://skillicons.dev/icons?i=swift,flutter,firebase,github,vscode,figma" /> <br /><br />
 
 
-## 🏆GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=orukahairuka&theme=onedark&margin-w=15&margin-h=15" />
-</p>
-
-
 
 ## 📊 GitHub Stats
 
